@@ -1,0 +1,5 @@
+C:/Users/acha/source/repos/W3-CPP/build/CMakeFiles/Accumulate.dir
+C:/Users/acha/source/repos/W3-CPP/build/CMakeFiles/ClassOrientedPascal.dir
+C:/Users/acha/source/repos/W3-CPP/build/CMakeFiles/median_test.dir
+C:/Users/acha/source/repos/W3-CPP/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/acha/source/repos/W3-CPP/build/CMakeFiles/ZERO_CHECK.dir
